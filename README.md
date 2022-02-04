@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amrit5988
+- 👋 Hi, I’m @Amrit_kudada
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Ethical hacking
 - 💞️ I’m looking to collaborate on nothing
